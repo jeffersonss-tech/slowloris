@@ -1,0 +1,3 @@
+[console_scripts]
+slowloris = slowloris:main
+
